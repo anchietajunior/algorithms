@@ -7,4 +7,7 @@ Algorithms using Ruby Language for studies and for real life.
 
 List of Algorithms
 
-* Conway's Game of Life algorithm
+* Bubble Sort
+* Largest number
+* Read external file and show content
+* Read two files, csv and tpl and join content to show result
