@@ -1,0 +1,1 @@
+Ola {{nome}}, acabamos de enviar um email para {{email}} informando as datas dos cursos que foram recentemente abertos.
