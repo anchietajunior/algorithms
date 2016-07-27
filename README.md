@@ -1,7 +1,7 @@
 
 # ruby_algorithms
 
-_**Ruby Version 2.2.0**_
+_**Ruby Version 2.3.1**_
 
 Algorithms using Ruby Language for studies and for real life.
 
