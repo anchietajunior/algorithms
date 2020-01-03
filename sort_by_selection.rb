@@ -10,7 +10,7 @@ def search_smallest_number(arr)
   return smallest_index
 end
 
-def order_by_select(arr)
+def sort_by_select(arr)
   newArr = []
   while (arr.length - 1) >= 0 do
     smallest = search_smallest_number(arr)
@@ -19,4 +19,4 @@ def order_by_select(arr)
   p "THE NEW ARR ORDERED IS: #{newArr}"
 end
 
-order_by_select([6, 7, 12, 1, 8, 5, 32, 78, 34, 16, 2]);
+sort_by_select([6, 7, 12, 1, 8, 5, 32, 78, 34, 16, 2]);
