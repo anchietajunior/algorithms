@@ -11,7 +11,7 @@ def binary_search list, target
     higher = (mid - 1) if kick > target
     lower = (mid + 1) if kick < target
   end
-  return "DID NOT FOUND the target"
+  return "Target not FOUND"
 end
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 , 20]
